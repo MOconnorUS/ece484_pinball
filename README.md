@@ -23,6 +23,8 @@ Now that the installations are all complete and your pinball machine is assemble
 # How to clone the repository
 1. Open Command prompt type `cmd` into the search bar on your windows device
 2. Navigate to your the folder you wish to clone the repository in this can be done by typing `cd file_path_to_directory`
-3. Click on the green code button on the repository
-4. Copy the github link provided in the drop down
+3. Click on the green code button on the repository shown in the image below
+![Green Code Button](/assests/images/code_button.png "Green Code Button")
+4. Copy the github link provided in the drop down by clicking the button circled in the image below
+![Copy Clone URL](/assests/images/copy_clone.png "Copy Clone URL")
 5. Type: git clone github_link *github_link is the url provided by github which can be pasted by right clicking on the command prompt*
