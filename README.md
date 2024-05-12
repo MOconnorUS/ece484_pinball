@@ -18,7 +18,7 @@
 ---
 
 # After completed everything above, the following will allow you to access and run the project
-Now that the installations are all complete all that is left for you to do is clone the repository and change one file path!
+Now that the installations are all complete and your pinball machine is assembled. All that is left for you to do is clone the repository!
 
 # How to clone the repository
 1. Open Command prompt type `cmd` into the search bar on your windows device
