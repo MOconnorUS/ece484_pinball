@@ -7,7 +7,7 @@
 3. X Arduinos
 4. X Touch Sensors
 5. 2 Ultrasonic Sensors
-6. X Servo Motors
+6. 2 Servo Motors
 7. 2 Obstacles
 8. X Buttons
 9. The Arduino IDE which can be installed [here](https://www.arduino.cc/en/software)
