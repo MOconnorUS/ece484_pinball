@@ -48,6 +48,10 @@ The paddles are made from cardboard and tape. There are three main parts to the 
 
 ![20240517_104243](https://github.com/MOconnorUS/ece484_pinball/assets/94214499/c18283bd-3f11-498c-81a8-4b40ce3d8327)
 
+### Code
+The code is comprised of two parts. The first is a commented out default set of if statements if you were to go for the bare bones button solenoid code. It allows the right button to activate the right solenoid, and the same goes for the left side. The other code is the is the same as the first except it allows for an extra gameplay element which is when you press the buttons 25 times total the controls will inverse. So when you press the right button it will cause the left solenoid to fire, and same for the left button and right solenoid.
+
+The code will be available for in the repositoy. The way to access it will be outlined below.
 
 ---
 
