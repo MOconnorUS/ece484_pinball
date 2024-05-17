@@ -39,11 +39,11 @@ For the circuit you'll need the following compoents:
 * 2 1k Ohm Resistors
 * Wires
 
-Once you have all of the components you can follow the circuit diagram below to create the circuit. There are two main parts to it: solenoids and buttons. The solenoids are essentially a piston, if they are powered the piston fires and is pushed and then once the singal is gone the spring brings the piston back. These are the main component that moves the paddle in order to hit the ball. The buttons are simply there for player interaction, if the player pushes a button then the corresponding solenoid will fire moving the paddle.
+Once you have all of the components you can follow the circuit diagram below to create the circuit. There are two main parts to it: solenoids and buttons. The solenoids are essentially a piston, if they are powered the piston fires and is pushed and then once the singal is gone the spring brings the piston back. These are the main component that moves the paddle in order to hit the ball. The buttons are simply there for player interaction, if the player pushes a button then the corresponding solenoid will fire moving the paddle. A side of causion for this circuit, if improperly set up you run the risk of having 12V enter your Arduino and damaging or frying the microcontroller!
 
 (Insert circuit schematic)
 
-### Paddles
+### Flippers
 The paddles are made from cardboard and tape. There are three main parts to the paddles: the paddle (1), the rotation point (2), the solenoid connection point (3). These are outlined in the picture below for a visual. The general concept is the paddle is the part that hits the ball, needs to be a slight slant so the ball and roll and fall into the hole in the middle. The rotation point is where the flipper is attached to the board. And the solenoid connection point is where the solenoid pulls down in order to spin the flipper to hit/launch the ball.
 
 ![20240517_104243](https://github.com/MOconnorUS/ece484_pinball/assets/94214499/c18283bd-3f11-498c-81a8-4b40ce3d8327)
@@ -52,6 +52,11 @@ The paddles are made from cardboard and tape. There are three main parts to the 
 The code is comprised of two parts. The first is a commented out default set of if statements if you were to go for the bare bones button solenoid code. It allows the right button to activate the right solenoid, and the same goes for the left side. The other code is the is the same as the first except it allows for an extra gameplay element which is when you press the buttons 25 times total the controls will inverse. So when you press the right button it will cause the left solenoid to fire, and same for the left button and right solenoid.
 
 The code will be available for in the repositoy. The way to access it will be outlined below.
+
+### Setup
+Once you have the circuit and flippers build and the code in your IDE. Simply upload the code to your Arduino (make sure to click on the "Tools" tab and have your Arduino as the selected port). Then connect the power supplies and fire the solenoids!
+
+---
 
 ---
 
