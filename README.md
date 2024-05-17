@@ -13,8 +13,13 @@ The ECE 484 Final Project tasks our team with creating a pinball machine with th
 6. 2 Servo Motors
 7. 2 Obstacles
 8. 5 Buttons
-9. The Arduino IDE which can be installed [here](https://www.arduino.cc/en/software)
-10. Git which can be installed [here](https://git-scm.com/downloads)
+9. 2 1N4007 Diodes
+10. 2 IRF520 Mosfet Transistors
+11. 2 10k Ohm Resistors
+12. 2 1k Ohm Resistors
+13. Wires
+14. The Arduino IDE which can be installed [here](https://www.arduino.cc/en/software)
+15. Git which can be installed [here](https://git-scm.com/downloads)
 
 ### WILL FILL OUT MORE CONTENTS FOR FINAL VERSION & WIKI WILL BE STRUCTURED WITH PROJECT DESIGN
 
@@ -38,6 +43,8 @@ Once you have all of the components you can follow the circuit diagram below to 
 
 (Insert circuit schematic)
 
+### Paddles
+The paddles are made from 
 
 ---
 
