@@ -56,6 +56,11 @@ The code will be available for in the repositoy. The way to access it will be ou
 ## 1.4 Setup
 Once you have the circuit and flippers build and the code in your IDE. Simply upload the code to your Arduino (make sure to click on the "Tools" tab and have your Arduino as the selected port). Then connect the power supplies and fire the solenoids!
 
+## 1.5 Demo
+The final demo utilized the flipper that came with the PinBox 3000. There were no added systems in this demo due to the solenoids being burnt out. A video is linked of the circuit below but the solenoids were burnt out before being able to tape the video.
+
+(Link)
+
 ---
 # 2. Obstacles
 We are using servo motor to control moving obstacles. It contains stationary, linear motion, and rotational motion obstacles.
