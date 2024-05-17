@@ -44,7 +44,10 @@ Once you have all of the components you can follow the circuit diagram below to 
 (Insert circuit schematic)
 
 ### Paddles
-The paddles are made from 
+The paddles are made from cardboard and tape. There are three main parts to the paddles: the paddle (1), the rotation point (2), the solenoid connection point (3). These are outlined in the picture below for a visual. The general concept is the paddle is the part that hits the ball, needs to be a slight slant so the ball and roll and fall into the hole in the middle. The rotation point is where the flipper is attached to the board. And the solenoid connection point is where the solenoid pulls down in order to spin the flipper to hit/launch the ball.
+
+![20240517_104243](https://github.com/MOconnorUS/ece484_pinball/assets/94214499/c18283bd-3f11-498c-81a8-4b40ce3d8327)
+
 
 ---
 
