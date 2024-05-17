@@ -58,6 +58,10 @@ Once you have the circuit and flippers build and the code in your IDE. Simply up
 
 ---
 # 2. Obstacles
+We are using servo motor to control moving obstacles. It contains stationary, linear motion, and rotational motion obstacles.
+
+![image](https://github.com/LUUUUKER/ECE484_Pinball_Machine/assets/92650444/b1a2ec30-778b-4e01-af28-06885459b43e)
+
 ## 2.1 Components
 
 * Arduino Uno * 1
@@ -71,10 +75,7 @@ Once you have the circuit and flippers build and the code in your IDE. Simply up
 * gear and racks * 1 pair
 * double-sided adhesive tape/ glue
 * small hook * 6
-
-
-
-***
+  
 ## 2.2 The Design
 Strength of my design:
 1. It is a seperate and independent system from other systems. Easy for maintainance.
@@ -103,8 +104,6 @@ To make sure the gear can bit the rack fully. I used 2 hooks and 2 rubber bands 
 
 ![image](https://github.com/LUUUUKER/ECE484_Pinball_Machine/assets/92650444/7b5e671e-98a9-408e-ae1b-9e2576728bf5)
 
-
-***
 ## 2.3 Code
 The logic of the controlling is not complicated. Since there are 2 servo motors, it is necessary to create 2 servo objects using function `Myservo.attach(ServoPin)` of Servo library. The rotation obstacles can rotate from 0 degree to 180 degrees. The linear motion obstacle can move any distance from the center position. It depends on the size of the gear. The larger the gear, the longger the distance because the circumference of the gear is larger.
 
@@ -122,7 +121,6 @@ If button is pressed, and the pose of the servo motor is between 0 - 180 degree.
 If the button is out of the range, it will stay at 0 degree or 180 degree.
  
 
-***
 ## 2.4 Demo Videos
 Up-side of the board: [video1](https://www.youtube.com/shorts/B_pMbELaD6g?feature=share)
 
