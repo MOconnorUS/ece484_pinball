@@ -128,6 +128,11 @@ Down-side of the board: [video2](https://www.youtube.com/watch?v=gnFavA0sfAg)
 
 ---
 
+## 5. Plunger
+The plunger was rather straight forward. The PinBox 3000 comes with a functioning plunger that works with a rubber band a small chamber for the ball to rest. We just used what came with the box and added no new systems.
+
+---
+
 # After completed everything above, the following will allow you to access and run the project
 Now that the installations are all complete and your pinball machine is assembled. All that is left for you to do is clone the repository!
 
