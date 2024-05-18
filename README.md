@@ -7,12 +7,12 @@ The ECE 484 Final Project tasks our team with creating a pinball machine with th
 ## The following are needed in order to perform this project
 1. A small scale pinball machine. For this project we used a PinBox 3000
 2. Two 12V Solenoids
-3. X Arduinos
-4. 3 Touch Sensors
-5. 2 Ultrasonic Sensors
+3. 4 Arduinos
+4. 2 Touch Sensors
+5. 1 Ultrasonic Sensors
 6. 2 Servo Motors
 7. 2 Obstacles
-8. 5 Buttons
+8. 6 Buttons
 9. 2 1N4007 Diodes
 10. 2 IRF520 Mosfet Transistors
 11. 2 10k Ohm Resistors
