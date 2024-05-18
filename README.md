@@ -41,7 +41,11 @@ For the circuit you'll need the following compoents:
 
 Once you have all of the components you can follow the circuit diagram below to create the circuit. There are two main parts to it: solenoids and buttons. The solenoids are essentially a piston, if they are powered the piston fires and is pushed and then once the singal is gone the spring brings the piston back. These are the main component that moves the paddle in order to hit the ball. The buttons are simply there for player interaction, if the player pushes a button then the corresponding solenoid will fire moving the paddle. A side of causion for this circuit, if improperly set up you run the risk of having 12V enter your Arduino and damaging or frying the microcontroller!
 
-(Insert circuit schematic)
+The top circuit is the solenoid which uses a 1k Ohm resistor and the bottom is the button which uses a 10k Ohm resistor. You'll need both of these per solenoid flipper you are making.
+
+![Screenshot 2024-05-17 193342](https://github.com/MOconnorUS/ece484_pinball/assets/94214499/b10a24be-82e9-440b-819f-1d34aa24ceb1)
+
+![button](https://github.com/MOconnorUS/ece484_pinball/assets/94214499/8fc62f9a-69cb-4355-9e7b-46ea631b76d1)
 
 ## 1.2 Flippers
 The flippers are made from cardboard and tape, there are three main parts: the paddle (1), the rotation point (2), the solenoid connection point (3). These are outlined in the picture below for a visual. The general concept is the paddle is the part that hits the ball, needs to be a slight slant so the ball and roll and fall into the hole in the middle. The rotation point is where the flipper is attached to the board. And the solenoid connection point is where the solenoid pulls down in order to spin the flipper to hit/launch the ball.
