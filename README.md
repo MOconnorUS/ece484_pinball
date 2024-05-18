@@ -18,8 +18,9 @@ The ECE 484 Final Project tasks our team with creating a pinball machine with th
 11. 2 10k Ohm Resistors
 12. 2 1k Ohm Resistors
 13. Wires
-14. The Arduino IDE which can be installed [here](https://www.arduino.cc/en/software)
-15. Git which can be installed [here](https://git-scm.com/downloads)
+14. Aluminum Foil Tape/Conductive Tape
+15. The Arduino IDE which can be installed [here](https://www.arduino.cc/en/software)
+16. Git which can be installed [here](https://git-scm.com/downloads)
 
 ### WILL FILL OUT MORE CONTENTS FOR FINAL VERSION & WIKI WILL BE STRUCTURED WITH PROJECT DESIGN
 
@@ -32,6 +33,20 @@ The flippers of a pinball machine are designed to flick a paddle to smack the pi
 ---
 
 # Obstacles
+# 2. Obstacles
+We are using servo motor to control moving obstacles. It contains stationary, linear motion, and rotational motion obstacles.
+
+![image](https://github.com/LUUUUKER/ECE484_Pinball_Machine/assets/92650444/b1a2ec30-778b-4e01-af28-06885459b43e)
+
+Strength of my design:
+1. It is a seperate and independent system from other systems. Easy for maintainance.
+2. The control logic is simple and efficient.
+3. Power saving, 1 9V battery can be used for a long time.
+4. Materials and components are easy to get. low cost.
+
+Weakness of the design:
+1. Relatively unstable physical connection. some parts may get loose for long use
+2. There are some grooves on the board. They may stuck the ball.
 
 ---
 
