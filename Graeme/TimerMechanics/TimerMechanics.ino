@@ -18,7 +18,7 @@ void setup() {
 
 void loop() {
     if (restartGame) {
-        restartGame = false; 
+        restartGame = false;  
         startGame(); 
     }
 
