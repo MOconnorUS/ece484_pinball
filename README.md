@@ -59,7 +59,7 @@ Once you have the circuit and flippers build and the code in your IDE. Simply up
 ## 1.5 Demo
 The final demo utilized the flipper that came with the PinBox 3000. There were no added systems in this demo due to the solenoids being burnt out. A picture of the circuit is shown(the one not used in the team demo). A video is linked of the circuit below but the solenoids were burnt out before being able to tape the video.
 
-![20240517_101839](https://github.com/MOconnorUS/ece484_pinball/assets/94214499/60141193-7df4-4dcb-a7ad-c136a90831cd)
+![20240517_101839 (1)](https://github.com/MOconnorUS/ece484_pinball/assets/94214499/bf817bc9-7def-4b3d-9c1e-a94f5b4c97fd)
 
 https://youtube.com/shorts/7UGwvJfNXc8?feature=share
 
