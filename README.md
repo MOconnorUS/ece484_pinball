@@ -53,7 +53,9 @@ The timer utilizes a LCD display with a push button to start the timer itself. U
 ## Plunger
 The plunger was rather straight forward. The PinBox 3000 comes with a functioning plunger that works with a rubber band a small chamber for the ball to rest. We just used what came with the box and added no new systems.
 
-*If you want a low level understanding of our system and the various aspects to it visit our [wiki](https://github.com/MOconnorUS/ece484_pinball/wiki)*
+---
+
+*If you are looking for a low level understanding of our system and the various aspects to it visit our [wiki](https://github.com/MOconnorUS/ece484_pinball/wiki)*
 
 ---
 
