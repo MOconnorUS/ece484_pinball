@@ -64,6 +64,9 @@ Click [here](https://youtube.com/shorts/OXTufG6oEbY?feature=share) to see a demo
 Measured in terms of time this project cost us as a group around 35 hours to complete. Measured in terms of cost since we had most of the materials needed, the extra materials cost us roughly $53
 
 ---
+# After completed everything above, the following will allow you to access and run the project
+Now that the installations are all complete and your pinball machine is assembled. All that is left for you to do is clone the repository!
+
 # How to clone the repository
 1. Open Command prompt type `cmd` into the search bar on your windows device
 2. Navigate to your the folder you wish to clone the repository in this can be done by typing `cd file_path_to_directory`
