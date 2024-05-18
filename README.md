@@ -56,6 +56,12 @@ The plunger was rather straight forward. The PinBox 3000 comes with a functionin
 *Note: If you are looking for a low level understanding of our system and the various aspects to it visit our [wiki](https://github.com/MOconnorUS/ece484_pinball/wiki)*
 
 ---
+# System Demonstration
+Below is a demonstration of our pinball machine in action!
+
+[Pinball Demo](https://github.com/MOconnorUS/ece484_pinball/tree/main/assets/videos/484_pinball_demo.mp4)
+
+---
 
 # How to clone the repository
 1. Open Command prompt type `cmd` into the search bar on your windows device
