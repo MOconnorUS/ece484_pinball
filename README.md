@@ -61,7 +61,7 @@ The code will be available for in the repositoy. The way to access it will be ou
 Once you have the circuit and flippers build and the code in your IDE. Simply upload the code to your Arduino (make sure to click on the "Tools" tab and have your Arduino as the selected port). Then connect the power supplies and fire the solenoids!
 
 ## 1.5 Demo
-The final demo utilized the flipper that came with the PinBox 3000. There were no added systems in this demo due to the solenoids being burnt out. A picture of the circuit is shown(the one not used in the team demo). A video is linked of the circuit below but the solenoids were burnt out before being able to tape the video.
+The final demo unfortunately utilized the flipper that came with the PinBox 3000. These used a lever method with rubberbands that the player push into the Pinball machine to flick the paddles. There were no added systems in this demo due to the solenoids being burnt out before the demo was done. A picture of the circuit is shown(the one not used in the team demo). A video is linked of the circuit just to show it, but again there won't be any movement with the solenoids.
 
 ![20240517_101839 (1)](https://github.com/MOconnorUS/ece484_pinball/assets/94214499/bf817bc9-7def-4b3d-9c1e-a94f5b4c97fd)
 
