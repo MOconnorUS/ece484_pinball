@@ -1,3 +1,5 @@
+// Matthew O'Connor
+// ECE 484 Pinball Scoring Integration
 #include <NewPing.h>
 #include <Wire.h>           // Library for I2C communication
 #include <LiquidCrystal_I2C.h> // Library for the LCD

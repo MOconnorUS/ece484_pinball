@@ -1,3 +1,5 @@
+// Graeme Welsh
+// ECE 484 Timer Mechanics
 #include <LiquidCrystal.h>
 
 int seconds;
