@@ -59,7 +59,7 @@ The plunger was rather straight forward. The PinBox 3000 comes with a functionin
 # System Demonstration
 Below is a demonstration of our pinball machine in action!
 
-[Pinball Demo](https://github.com/MOconnorUS/ece484_pinball/tree/main/assets/videos/484_pinball_demo.mp4)
+![Pinball Demo](https://github.com/MOconnorUS/ece484_pinball/tree/main/assets/videos/484_pinball_demo.mp4)
 
 ---
 
