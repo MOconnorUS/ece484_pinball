@@ -61,7 +61,7 @@ Click [here](https://youtube.com/shorts/OXTufG6oEbY?feature=share) to see a demo
 
 ---
 # Cost of the Project
-Measured in terms of time this project cost us as a group around 35 hours to complete. Measured in terms of cost since we had most of the materials needed, the extra materials cost us roughly $53
+Measured in terms of time this project cost us as a group around 35 hours to complete. Measured in terms of cost since we had most of the materials needed, the extra materials cost us roughly $93
 
 ---
 # After completed everything above, the following will allow you to access and run the project
